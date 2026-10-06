@@ -28,5 +28,5 @@ class DepthCalculator {
 }
 
 module.exports = {
-  DepthCalculator
+  depthCalculator: new DepthCalculator(),
 };
